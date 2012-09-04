@@ -1,0 +1,42 @@
+body:before { content: "Base CSS"; color: deeppink; }
+
+html {
+	background-color: lightgoldenrodyellow;
+	direction: ltr;
+	overflow-y: scroll;
+	unicode-bidi: embed;
+	-ms-text-size-adjust: 100%;
+}
+
+html[lang="en"] {
+	-webkit-locale: en;
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px), only screen and (max-device-width: 480px) {
+	html {
+		-webkit-overflow-scrolling: touch;
+		-webkit-text-size-adjust: 100%;
+	}
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: transparent;
+	color: SaddleBrown;
+	font-family: Georgia, serif;
+	font-size: 90%;
+	font-weight: normal;
+	font-style: normal;
+	line-height: 1.6;
+}
+
+a {
+	color: mediumslateblue;
+}
+
+a:hover {
+	color: mediumorchid;
+}

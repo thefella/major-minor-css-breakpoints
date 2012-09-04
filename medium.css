@@ -1,0 +1,9 @@
+body:before { content: "720px"; }
+
+@media screen and (min-width:768px) {
+	body:before { content: "768px"; }
+}
+
+@media screen and (min-width:800px) {
+	body:before { content: "800px"; }
+}

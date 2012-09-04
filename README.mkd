@@ -1,0 +1,13 @@
+# Major and Minor Breakpoints for CSS
+
+## Usage
+
+Sample CSS files set at 'major breakpoints' which, in turn, contain 'minor breakpoints'.
+
+See the presentations by [Stephanie Rieger](http://www.slideshare.net/yiibu/pragmatic-responsive-design) and [Andy Clarke](https://speakerdeck.com/u/malarkey/p/fashionably-flexible-responsive-web-design-full-day-workshop-1) for more background.
+
+
+
+## About
+
+Based on the work by [@stephanierieger](http://twitter.com/stephanierieger) and [@Malarkey](http://twitter.com/Malarkey). Feedback, ideas and support to [@thefella](http://twitter.com/thefella).
